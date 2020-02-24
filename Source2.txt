@@ -3,3 +3,4 @@ Rust is an upcoming langauage
 Python is created by Guido van rosum
 Rust is designed Garydob
 Rust's current version 1.2.1
+Rust app can be developed using IntelliJ IDEA IDE
